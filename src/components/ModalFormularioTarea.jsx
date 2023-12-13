@@ -54,6 +54,7 @@ const ModalFormularioTarea = () => {
         setDescripcion('')
         setFechaEntrega('')
         setPrioridad('')
+        console.log('Funciona')
     }
 
     const { msg } = alerta
